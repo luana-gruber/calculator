@@ -10,6 +10,6 @@ Projeto desenvolvido no curso de React Native do Coder Cursos
 - Criar estilos para os componentes;
 - Reforço do uso de Flexbox; 
 - Criar Snipper;
-- Endender mudanças de estado de um componente com o uso do Hook useState;
+- Entender mudanças de estado de um componente com o uso do Hook useState;
 - Comunicação direta e indireta entre componentes 'Pai' e 'Filho';
 - Uso do JSX para renderizar no meu app.
